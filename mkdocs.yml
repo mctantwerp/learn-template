@@ -1,13 +1,13 @@
-site_name: Multimedia & Creatieve Technologie
+site_name: Template
 site_url: https://template.learn.mctantwerp.be
-site_author: <Somebody cool>
-site_description: <What is this about>
+site_author: Dade Murphy
+site_description: Basis cursus over template
 
-repo_name: mctantwerp/learn-<template>
-repo_url: https://github.com/mctantwerp/learn-<template>
+repo_name: mctantwerp/learn-template
+repo_url: https://github.com/mctantwerp/learn-template
 edit_uri: edit/main/docs/
 
-copyright: Copyright &copy; Karel de Grote Hogeschool
+copyright: Karel de Grote Hogeschool<br>Multimedia & Creatieve Technologie
 
 nav:
   - 👋 Welkom: index.md
