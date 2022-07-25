@@ -26,3 +26,7 @@ pip install mkdocs-git-authors-plugin
 features
     - navigation.sections
 ```
+
+# Usefull links
+
+* [Icons van fontawesome met hun code](https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/)
