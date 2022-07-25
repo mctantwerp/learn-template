@@ -17,3 +17,12 @@ Bij grotere aanpassingen of het schrijven van mini courses zal er altijd een onl
 pip install mkdocs-git-committers-plugin-2
 pip install mkdocs-git-revision-date-localized-plugin
 pip install mkdocs-git-authors-plugin
+
+# Interesting features / settings
+
+## Geen toggles maar sections voor 1ste level van navigatie
+
+```md
+features
+    - navigation.sections
+```
