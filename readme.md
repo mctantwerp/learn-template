@@ -1,18 +1,18 @@
 # Usage
 
-* Zorg ervoor dat je zeker python3 hebt
-* Installeer mkdocs (`pip install mkdocs`)
-* Installeer mkdocs-material (`pip install mkdocs-material`)
-* Installeer de vereiste packages (Zie `Gebruikte packages` onderaan)
-* Use `mkdocs serve` om de site lokaal te kunnen bekijken
+* Make sure you have Python 3 installed
+* Install mkdocs (`pip install mkdocs`)
+* Install mkdocs-material (`pip install mkdocs-material`)
+* Install the required packages (see `Used packages` below)
+* Use `mkdocs serve` to view the site locally
 
-## Belangrijk!
+## Important!
 
-Wij gebruiken het **material insiders** thema wat ons extra features en opties geeft. Als je lokaal test kan het zijn dat niet alles er grafisch doorkomt zoals je zou willen op basis van de kitchensink. Don't worry! Eens dit online gebuild wordt komt dit helemaal goed.
+We use the **Material Insiders** theme, which gives us extra features and options. When testing locally, some visuals may not appear as you would expect based on the kitchen sink. Don't worry! Once this is built and deployed, everything will look correct.
 
-Bij grotere aanpassingen of het schrijven van mini courses zal er altijd een online testomgeving voorzien worden waarop je kan testen en al je aanpassingen wel kan bekijken. Contacteer sam.serrien@kdg.be indien je hier gebruik van wil maken.
+For larger changes or when writing mini courses, an online test environment will always be provided where you can test and properly view all your changes. Contact sam.serrien@kdg.be if you would like to use this.
 
-# Gebruikte packages
+# Used packages
 
 pip install mkdocs-git-committers-plugin-2
 pip install mkdocs-git-revision-date-localized-plugin
@@ -20,13 +20,13 @@ pip install mkdocs-git-authors-plugin
 
 # Interesting features / settings
 
-## Geen toggles maar sections voor 1ste level van navigatie
+## No toggles but sections for the first level of navigation
 
 ```md
 features
     - navigation.sections
 ```
 
-# Usefull links
+# Useful links
 
-* [Icons van fontawesome met hun code](https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/)
+* [Icons from Font Awesome with their codes](https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/)

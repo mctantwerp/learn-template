@@ -1,2 +1,2 @@
-
-.cache/plugin/git-committers/authors.json
+.cache
+venv
